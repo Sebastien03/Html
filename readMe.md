@@ -74,12 +74,6 @@ Puis pour finir nous allons voir les balises principal utilisé par le langage C
 ===============================================================================
 <center> <em> Réalisation de la première page CSS </em> </center>
 ===============================================================================
-
-<h3> Conclusion : </h3>
-
-En conclusion de cette petite activités, ce que nous vous avons présentés aujourd'hui n'est qu'une partie minimale des possibilités qu'offres ses 2 langages combinés. Nous pouvons vous faire voir, a un plus haut niveau, les choses que vous pouvez réalisé.
-</br>
-</br>
 ===============================================================================
 <center> <em> Quelques exemples de balise en html + css <em> </center>
 ===============================================================================
@@ -95,7 +89,13 @@ Mot clef pour une balises images complete
 </br>
 <img src="https://mdn.mozillademos.org/files/11525/CSS.svg" height="400" width="100%">
 </br>
-<center> <p style="color:red; font-size: 30"> Je suis un paragraphe écrit en rouge </p> </center> </br>
+<center> <p style="color:red; font-size: 30"> Je suis un paragraphe écrit en rouge </p> </center> 
+</br>
+<h3> Conclusion : </h3>
+
+En conclusion de cette petite activités, ce que nous vous avons présentés aujourd'hui n'est qu'une partie minimale des possibilités qu'offres ses 2 langages combinés. Nous pouvons vous faire voir, a un plus haut niveau, les choses que vous pouvez réalisé.
+</br>
+</br>
 ===============================================================================
 <center> <em> Voici quelques exemples de projets que nous avons réaliser <em> </center>
 ===============================================================================

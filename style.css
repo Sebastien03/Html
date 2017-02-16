@@ -1,0 +1,15 @@
+body{
+	background-color: lime; /* Couleur chosit par le public */
+}
+img{
+	height: 500px; /*Pas spécialement nécessaire*/
+	width: 100%;     /*de leur demander de le faire*/
+}
+h1{
+	text-align: center;
+	font-size: 70px; /*Taille choisit par le public*/
+	color: blue; /*Couleur choisit par le public*/
+}
+p{
+	color: red; /* Couleur choisit par le public */
+}
