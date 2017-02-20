@@ -3,7 +3,7 @@ Nombres de participant : 6 (Pour les enfants)
 </br>
 Nombres de participant : 8 (Pour adultes)
 </br>
-Nombres d'intervenant : 3
+Nombres d'intervenant : 3 (HTML = 1 intervenant, CSS = 1 intervenant et 1 = Conclusion)
 </br>
 Atelier ~ 1 h 30
 </br>
@@ -15,6 +15,7 @@ Déroulement de l'atelier : </br>
     - Présentation de l'atelier </br>
     - Petite approche du langage HTML </br>
         * Réalisation ave le public de la page HTML </br>
+        * Délimiter un espace de code sur thimble</br>
         </br>(Pause 10 minutes) </br> </br>
     - Petite approche du langage CSS </br>
         * Réalisation avec le public de la page CSS </br>
@@ -27,54 +28,22 @@ Déroulement de l'atelier : </br>
 <img src="http://avocaventures.com/wp-content/uploads/2014/11/lines-of-code.jpg" height="400" width="100%">
 ===============================================================================
 </br>
-Aujourd'hui nous vous présentons un atelier ou nous allons vous expliquer les bases de la création d'une page internet. Dans un premier temps nous allons choisir ensemble un éditeur de texte en ligne qui nous permettra la création de cette page. 
-</br>(ex: Timble.mozilla.org;codepen.io;dcode.fr) </br>
+Nous allons vous expliquer les bases de la création d'une page internet. Dans un premier temps nous allons utiliser un éditeur de texte en ligne qui nous permettra la création de cette page. 
+</br>(ex: Thimble.) </br>
 Dans un second temps nous allons voir le squelette du site, c'est a dire le language que l'on appelle HTML, nous allons voir les balises obligatoires pour que notre code fonctionne, ainsi que certaines balises qui permettent une première mise en page de notre futur page internet.
 </br>
-<center> <img src="http://www.mysti2d.net/polynesie2/SIN/08/31/HTML/lib/NouvelElement24.png"> </center>
-Head = Cerveau de la page ( ce qui va permettre a l'ordinateur d'afficher la page internet)</br>
-Body = Partie visible sur la page internet (affiche le texte, image etc ...)
-</br>
 <img src="http://css.mammouthland.net/images/box.png" height="400" width="100%">
+</br><a href="https://www.facebook.com/faceterritoirebourbonnais/?fref=ts">page fb</a>
+</br> <a href="http://www.gulli.fr/"> Gulli </a>
+</br>
 Exemple de construction d'une page internet.
 </br> <h2> Exemple: </h2>
- -  <!DOCTYPE html> : Balise obligatoires qui annonce quel ("language") nous allons utiliser, cette balise doit toujours être placée avant toute les balises.
- </br> * Langage informatique (HTML, CSS, Javascript, Php...)
- </br>
  - <> : Voici les signes obligatoirement utilisés pour déclarer l'ouverture (</>) et la fermeture d'une balise.
 </br>
 </br>
 <img src="http://r0ma1n2g.e-monsite.com/medias/images/schema-creer-balise.png" width="100%">
 </br>
 <center> <img src="http://pierre-giraud.com/html-css/cours-complet/imgs/element-p-exemple-html.png"> </center>
-</br>
-</br>
-===============================================================================
-<center> <em> Réalisation du premier squelette html </em> </center>
-===============================================================================</br>
- (Petite pause de 10 minutes) </br>
-</br>
-Puis pour finir nous allons voir les balises principales utilisées par le langage CSS. Le langage CSS permet une mise en page plus décorative, mais à condition de cibler l'élément que nous voulons mettre en page. Il existe quelques outils pour facilité la mise en page tel que :
-   </br> Bootstrap
-   </br> Flexbox
-</br> <img src="https://pbs.twimg.com/media/Bin7M_KCIAATzmg.png" width="100%">
-</br> <h2> Exemple : </h2>
-<center> <strong> - background-color: orange;
-</br> Elle permet d'insérer un fond d'écran orange. </center> </strong>
-<img src="https://i.ytimg.com/vi/36cJkAAAAkQ/maxresdefault.jpg" height="400" width="100%">
-<center> <strong> -color : white; 
-</br>Elle permet de changer la couleur du texte. </strong> </center>
-</br>
-<img src="http://img.clubic.com/08424590-photo-orange-logo-hd.jpg" height="400" width="100%">
-</br>
-</br>
-===============================================================================
-<center> <em> Réalisation de la première page CSS </em> </center>
-===============================================================================
-===============================================================================
-<center> <em> Quelques exemples de balise en html + css <em> </center>
-===============================================================================
-</br>
 <img src="http://www.netpublic.fr/wp-content/uploads/2013/02/daltons.gif" height="400" width="100%">
 <img src="http://coin.des.experts.pagesperso-orange.fr/reponses/faq9_62/page1.gif" height="400" width="100%">
 </br>
@@ -84,9 +53,49 @@ Différentes tailles de balises titres </p>
 </br>
 Mot clef pour une balise images complete
 </br>
-<img src="https://mdn.mozillademos.org/files/11525/CSS.svg" height="400" width="100%">
 </br>
+<center> <img src="http://pierre-giraud.com/html-css/cours-complet/imgs/element-img-exemple-html.png"> </center>
+</br>
+</br>
+==============================================================================
+<center> <em> Réalisation du premier squelette html </em> </center>
+
+</br>
+    - h1 : Expliquer puis appliquer </br>
+    - paragraphe : Expliquer puis appliquer </br>
+    - image : Expliquer puis appliquer </br>
+===============================================================================</br>
+ (Petite pause de 10 minutes) </br>
+</br>
+Maintenant nous allons voir les balises principales utilisées par le langage CSS. Le langage CSS permet une mise en page plus décorative, mais à condition de cibler l'élément que nous voulons mettre en page. Il existe quelques outils pour facilité la mise en page tel que :
+   </br> Bootstrap
+   </br> Flexbox
+</br> <img src="https://pbs.twimg.com/media/Bin7M_KCIAATzmg.png" width="100%">
+</br>
+</br> <img src="https://user.oc-static.com/files/174001_175000/174165.jpg" width="100%">
+</br> <h2> Exemple : </h2>
+<center> <strong> - background-color: orange;
+</br> Elle permet d'insérer un fond d'écran orange. </center> </strong>
+<img src="https://i.ytimg.com/vi/36cJkAAAAkQ/maxresdefault.jpg" height="400" width="100%">
+<center> <strong> -color : white; 
+</br>Elle permet de changer la couleur du texte. </strong> </center>
+</br>
+<img src="http://img.clubic.com/08424590-photo-orange-logo-hd.jpg" height="400" width="100%">
+</br>
+<img src="https://mdn.mozillademos.org/files/11525/CSS.svg" height="400" width="100%">
 <center> <p style="color:red; font-size: 30"> Je suis un paragraphe écris en rouge </p> </center> 
+
+===============================================================================
+<center> <em> Réalisation de la première page CSS </em> </center>
+</br>
+- Background-color : Expliquer puis Appliquer </br>
+- Color : Expliquer puis Appliquer </br>
+- font-size : Expliquer puis Appliquer </br>
+- border : Expliquer puis Appliquer </br>
+===============================================================================
+</br>
+</br>
+
 </br>
 <h3> Conclusion : </h3>
 
