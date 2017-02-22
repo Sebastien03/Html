@@ -1,7 +1,5 @@
 <center> <h2> Préparation atelier </h2> </center>
-Nombres de participant : 6 (Pour les enfants)
-</br>
-Nombres de participant : 8 (Pour adultes)
+Nombres de participant : 4
 </br>
 Nombres d'intervenant : 3
 </br>
