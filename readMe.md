@@ -1,9 +1,9 @@
 <center> <h2> Préparation atelier </h2> </center>
 Nombres de participant : 4
 </br>
-Nombres d'intervenant : 3
+Nombres d'intervenant : 2
 </br>
-Atelier ~ 1 h 30
+Atelier ~ 45min - 1H
 </br>
 Compétences: - Approches HTML </br>
              - Approches CSS </br>
@@ -110,7 +110,7 @@ Un exemple est plus parlant :
 Maintenant nous allons voir les balises principales utilisées par le langage CSS. Le langage CSS permet une mise en page plus décorative, mais à condition de cibler l'élément que nous voulons mettre en page. Il existe quelques outils pour facilité la mise en page tel que :
    </br> Bootstrap
    </br> Flexbox
-</br> <img src="https://pbs.twimg.com/media/Bin7M_KCIAATzmg.png" width="100%">
+</br> <img src="img/capture.png" width="100%">
 </br>
 </br>
 Pour pouvoir appliquer une propriété a un element il faut le cibler comme ceci :
@@ -151,15 +151,9 @@ Maintenant nous allons voir les différentes propriété que nous avons vu ci de
 </br>
 <h1> Conclusion : </h1>
 
-En conclusion de cette petite activité, ce que nous vous avons présentés aujourd'hui n'est qu'une petite partie  des possibilités qu'offres ses 2 langages combinés. Nous pouvons vous faire voir avec plus de connaissance, les choses que vous pourriez réalisées.
+En conclusion de cette petite activité, ce que nous vous avons présentés aujourd'hui n'est qu'une petite partie  des possibilités qu'offres ses 2 langages combinés.Il n'éxiste pas que ces 2 langages, par exemple pour faire des animations plus pousser on va utiliser le langage qui s'appelle Javascript. Et pour faire par exemple une zone menbre on va utilisés le Php. Nous pouvons vous faire voir avec plus de connaissance, les choses que vous pourriez réalisées.
 </br>
 </br>
 ===============================================================================
-<center> <em> Voici quelques exemples de projets que nous avons réalisés <em> </center>
+<center> <em> Voici quelques exemples de projets que nous avons réalisés : <em> </center>
 ==============================================================================
-
-<center> <strong> <h1> Live Coding </h1> </strong> </center>
-
-<h1> <strong> Conclusion Final : </strong> </h1>
-
-Il n'éxiste pas que ces 2 langages, par exemple pour faire des animations plus pousser on va utiliser le langage qui s'appelle Javascript. Et pour faire par exemple une zone menbres on va utilisé le Php.
